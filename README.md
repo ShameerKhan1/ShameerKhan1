@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShameerKhan1 I am just a beginner love to code...
 - 👀 I’m interested in coding and learning about new technologies which will have positive impact on mankind and nature
-- 🌱 I’m currently learning to web 3.0 and ethereum blockchain.
+- 🌱 I’m currently learning to web 3.0 and ethereum blockchain. Also learning Android development in Java
 - 💞️ I’m looking to collaborate with anyone who is learning about web 3.0 and blockchain
 - 📫 You can contact me https://bit.ly/3U1hDyR
 
